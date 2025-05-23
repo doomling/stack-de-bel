@@ -1,6 +1,6 @@
 import { useState } from "react";
 import belLogo from "./assets/doomling.png";
-import viteLogo from "/vite.svg";
+// import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
